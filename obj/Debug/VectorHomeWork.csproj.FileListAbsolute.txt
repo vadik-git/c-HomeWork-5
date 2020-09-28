@@ -1,0 +1,7 @@
+C:\Users\Vadim\source\repos\VectorHomeWork\VectorHomeWork\bin\Debug\VectorHomeWork.exe.config
+C:\Users\Vadim\source\repos\VectorHomeWork\VectorHomeWork\bin\Debug\VectorHomeWork.exe
+C:\Users\Vadim\source\repos\VectorHomeWork\VectorHomeWork\bin\Debug\VectorHomeWork.pdb
+C:\Users\Vadim\source\repos\VectorHomeWork\VectorHomeWork\obj\Debug\VectorHomeWork.csprojAssemblyReference.cache
+C:\Users\Vadim\source\repos\VectorHomeWork\VectorHomeWork\obj\Debug\VectorHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\VectorHomeWork\VectorHomeWork\obj\Debug\VectorHomeWork.exe
+C:\Users\Vadim\source\repos\VectorHomeWork\VectorHomeWork\obj\Debug\VectorHomeWork.pdb
